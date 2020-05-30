@@ -1,0 +1,27 @@
+{
+  "name": "scheketro-cli",
+  "version": "0.0.2",
+  "description": "formwork scaffolding for skeleton",
+  "main": "src/index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "link": "npm link"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scheletro/cli.git"
+  },
+  "author": "schecketro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scheletro/cli/issues"
+  },
+  "homepage": "https://github.com/scheletro/cli#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.1.0",
+    "inquirer": "^7.1.0",
+    "rimraf": "^3.0.2"
+  }
+}
