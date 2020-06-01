@@ -6,3 +6,7 @@ yarn.lock
 # ignore document folder
 
 docs
+
+# ignore dist folder
+
+dist
