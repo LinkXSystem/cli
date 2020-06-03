@@ -1,6 +1,6 @@
 {
   "name": "scheketro-cli",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "formwork scaffolding for skeleton",
   "main": "src/index.js",
   "bin": "bin/index.js",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/scheletro/cli.git"
   },
   "author": "schecketro",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/scheletro/cli/issues"
   },
